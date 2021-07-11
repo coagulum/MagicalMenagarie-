@@ -25,3 +25,7 @@ C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\Assessment
 C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\AssessmentTask2.quiz2.resources
 C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\AssessmentTask2.quiz3.resources
 C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\AssessmentTask2.quiz4.resources
+C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\bin\Debug\AssessmentTask2.exe.manifest
+C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\bin\Debug\AssessmentTask2.application
+C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\AssessmentTask2.exe.manifest
+C:\Users\kyanp\source\repos\AssessmentTask2\AssessmentTask2\obj\Debug\AssessmentTask2.application
